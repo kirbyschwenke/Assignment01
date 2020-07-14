@@ -1,12 +1,4 @@
 <html>
-  <head> 
-        <style>
-          body {font-family:helvetica; background-color:#FEDCE2; padding: 50px;}
-            h1 {color: #DF744A; font-size: 30;}
-          p {color: grey; font-size: 14;}
-          li {color: slategrey; font-size: 14;}
-    </style>
-  </head>
   <body>
     <h1>About me</h1>
 <div class="row">
